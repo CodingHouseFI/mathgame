@@ -1,0 +1,7 @@
+.number {
+  vertical-align: top;
+  border: 1px solid #000;
+  display: inline-block;
+  min-height: 20px;
+  min-width: 70px;
+}
