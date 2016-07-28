@@ -1,1 +1,1 @@
-# mathgame
+# Yes.  This is a mathgame.
